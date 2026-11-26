@@ -1,0 +1,6 @@
+{
+  "name": "Deep Dive — Solid State Soft",
+  "description": "Requirements & QA Edge-Case Generator by Solid State Soft. Your Business Logic, Solidified.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
